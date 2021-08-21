@@ -4,6 +4,9 @@ Plots and code for <a href="https://github.com/rfordatascience/tidytuesday">Tidy
 
 <h2>All plots, starting from the most recent:</h2>
 
+<a href="https://github.com/ilenapeng/tidytuesday/tree/main/week30_droughts">Week 30, Droughts</a>
+<img src="https://github.com/ilenapeng/tidytuesday/blob/main/week30_droughts/w30_droughts.png">
+
 <a href="https://github.com/ilenapeng/tidytuesday/tree/main/week23_survivor">Week 23, Survivor</a>
 <img src="https://github.com/ilenapeng/tidytuesday/blob/main/week23_survivor/w23_survivor.png">
 
