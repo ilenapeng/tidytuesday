@@ -14,7 +14,7 @@ So in Arizona, we can see that only 0.75% of the population is living in the low
 The number above each state represents the total percentage of that state living in a drought (all those circles added up together). So 100% of Arizona’s population is living in some form of a drought.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/30391956/131103994-17b31992-aa08-462f-8517-f15ef1e69b76.png" width="400" style="text-align: center" alt="Diagram showing how to read nested circle chart on U.S. droughts">
+<img src="https://user-images.githubusercontent.com/30391956/131103994-17b31992-aa08-462f-8517-f15ef1e69b76.png" width="600" style="text-align: center" alt="Diagram showing how to read nested circle chart on U.S. droughts">
 </p>
 
 <h2>How I made the chart</h2>
