@@ -17,6 +17,7 @@ Plots and code for <a href="https://github.com/rfordatascience/tidytuesday">Tidy
 <img src="https://github.com/ilenapeng/tidytuesday/blob/main/week21_salaries/w21_salaries.png">
 
 <a href="https://github.com/ilenapeng/tidytuesday/tree/main/week20_broadband">Week 20, Broadband</a>
+<img src="https://github.com/ilenapeng/tidytuesday/blob/main/week20_broadband/w20_broadband_2.png">
 <img src="https://github.com/ilenapeng/tidytuesday/blob/main/week20_broadband/w20_broadband.png">
 
 <a href="https://github.com/ilenapeng/tidytuesday/tree/main/week19_water">Week 19, Water</a>
