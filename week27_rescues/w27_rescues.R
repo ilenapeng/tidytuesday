@@ -36,7 +36,7 @@ plot <- rescue_count %>%
   ) +
   coord_equal() +
   labs(
-    title="Animal Rescues by the London Fire Brigade, 2009-2020",
+    title="Most Commonly Rescued Animals by the London Fire Brigade, 2009-2020",
     caption="Data from London.gov via Data is Plural and Georgios Karamanis\nGraphic by Ilena Peng for #TidyTuesday"
   ) +
   theme_enhance_waffle() +
@@ -50,5 +50,4 @@ plot <- rescue_count %>%
       legend.text = element_text(hjust = 0, vjust = 0.75)) 
 
 print(plot)
-#Exported from plot zoom because dimensions were not working with me
 ggsave("w27_rescues.png")
