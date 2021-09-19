@@ -4,6 +4,9 @@ Plots and code for <a href="https://github.com/rfordatascience/tidytuesday">Tidy
 
 <h2>Some highlights:</h2>
 
+<a href="https://github.com/ilenapeng/tidytuesday/tree/main/week36_birdbaths">Week 36, Birdbaths</a>
+<img src="https://github.com/ilenapeng/tidytuesday/blob/main/week36_birdbaths/w36_birdbaths.png">
+
 <a href="https://github.com/ilenapeng/tidytuesday/tree/main/week30_droughts">Week 30, Droughts</a>
 <img src="https://github.com/ilenapeng/tidytuesday/blob/main/week30_droughts/w30_droughts.png">
 
