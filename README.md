@@ -10,6 +10,9 @@ Plots and code for <a href="https://github.com/rfordatascience/tidytuesday">Tidy
 <a href="https://github.com/ilenapeng/tidytuesday/tree/main/week30_droughts">Week 30, Droughts</a>
 <img src="https://github.com/ilenapeng/tidytuesday/blob/main/week30_droughts/w30_droughts.png">
 
+<a href="https://github.com/ilenapeng/tidytuesday/tree/main/week24_fishing">Week 24, Fishing</a>
+<img src="https://github.com/ilenapeng/tidytuesday/blob/main/week24_fishing/w24_fishing.png">
+
 <a href="https://github.com/ilenapeng/tidytuesday/tree/main/week22_mariokart">Week 22, Mario Kart</a>
 <img src="https://github.com/ilenapeng/tidytuesday/blob/main/week22_mariokart/w22_mariokart.png">
 
@@ -27,3 +30,6 @@ Plots and code for <a href="https://github.com/rfordatascience/tidytuesday">Tidy
 
 <a href="https://github.com/ilenapeng/tidytuesday/tree/main/week15_forests">Week 15, Deforestation and forest loss</a>
 <img src="https://github.com/ilenapeng/tidytuesday/blob/main/week15_forests/w15_forests.png">
+
+<a href="https://github.com/ilenapeng/tidytuesday/tree/main/week3_art">Week 3, Tate Art Museum collections</a>
+<img src="https://github.com/ilenapeng/tidytuesday/blob/main/week3_art/w3_art.png">
