@@ -58,8 +58,3 @@ plot <- df_top5 %>%
 
 print(plot)
 ggsave('w29_scoobydoo234.png', width=8, height=12, unit="in")
-
-# 5.94 2.98 in // 1792 x 828
-
-
-
