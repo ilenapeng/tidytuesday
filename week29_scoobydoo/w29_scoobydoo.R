@@ -57,4 +57,4 @@ plot <- df_top5 %>%
     legend.position = "none")
 
 print(plot)
-ggsave('w29_scoobydoo234.png', width=8, height=12, unit="in")
+ggsave('w29_scoobydoo.png', width=8, height=12, unit="in")
