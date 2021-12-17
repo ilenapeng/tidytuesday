@@ -31,5 +31,5 @@ Plots and code for <a href="https://github.com/rfordatascience/tidytuesday">Tidy
 <a href="https://github.com/ilenapeng/tidytuesday/tree/main/week15_forests">Week 15, Deforestation and forest loss</a>
 <img src="https://github.com/ilenapeng/tidytuesday/blob/main/week15_forests/w15_forests.png">
 
-<a href="https://github.com/ilenapeng/tidytuesday/tree/main/week3_art">Week 3, Tate Art Museum collections</a>
-<img src="https://github.com/ilenapeng/tidytuesday/blob/main/week3_art/w3_art.png">
+<a href="https://github.com/ilenapeng/tidytuesday/tree/main/week03_art">Week 3, Tate Art Museum collections</a>
+<img src="https://github.com/ilenapeng/tidytuesday/blob/main/week03_art/w03_art.png">
