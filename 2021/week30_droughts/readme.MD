@@ -2,7 +2,8 @@
 After taking a few weeks off from participating in <a href="https://github.com/rfordatascience/tidytuesday">#TidyTuesday</a>, I found some time last week to make this proportional area cartogram heatmap of the percentage of each U.S. state living in a drought, as of July 2021.
 
 <p align="center">
-<img src="https://github.com/ilenapeng/tidytuesday/blob/main/week30_droughts/w30_droughts.png?raw=true" width="600" alt="Map of percentage of U.S. population in a drought">
+<img src="https://github.com/ilenapeng/tidytuesday/blob/main/2021/week30_droughts/w30_droughts.png" width="600" alt="Map of percentage of U.S. population in a drought">
+  
 </p>
 
 <h2>How to read the chart</h2>
