@@ -2,8 +2,6 @@ library(tidyverse)
 library(extrafont)
 library(tidytext)
 library(waffle)
-
-install.packages('taylor')
 library(taylor)
 # testing 
 # taylor_album_songs$lyrics
@@ -88,7 +86,7 @@ plot <- df_color_by_album %>% ggplot(aes(fill = hexcode, values = n)) +
   labs(
     title="Taylor Swift",
     subtitle="Colors in Taylor Swift lyrics\n",
-    caption="*Fearless and Red are Taylor's Version\nData from the taylor R package | Chart by Ilena Peng for #TidyTuesday"
+    caption="*Taylor's Version\nData from the taylor R package | Chart by Ilena Peng for #TidyTuesday"
   ) +
   theme_void() +
   theme(
