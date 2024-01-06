@@ -30,9 +30,6 @@ df <- df[c('album_name', 'track_name', 'word')]
 # and also this https://taylorswiftandx.tumblr.com/post/177059355810/taylor-swift-and-colors-sorted-by-color
 match_list <- paste(c('amber', 'aquamarine', 'black', 'blue', 'brown', 'gold', 'green', 'indigo', 'lavender', 'maroon', 'orange', 'pink', 'purple', 'red', 'gray', 'rose', 'tan', 'tangerine', 'teal', 'white', 'violet', 'rosy', 'cherry', 'burgundy', 'scarlet', 'rust', 'sapphire', 'silver', 'crimson'))
 
-# filter dataset based on colors we know are in the songs
-df_color <- subset(df_count, word %in% match_list)
-
 # and then group by album  and count the colors -- which is what i ended up visualizing 
 df_color_by_album <- df %>%
   group_by(album_name) %>%
@@ -103,4 +100,4 @@ plot <- df_color_by_album %>% ggplot(aes(fill = hexcode, values = n)) +
   )
 
 print(plot)
-ggsave('~/Documents/github/tidytuesday/2024/w01_taylorswift/w01_taylorswift_colors_raw.png', height=6, width=10, unit="in")
+ggsave('~/Documents/github/tidytuesday/2024/week01_taylorswift/w01_taylorswift_colors_raw.png', height=6, width=10, unit="in")
