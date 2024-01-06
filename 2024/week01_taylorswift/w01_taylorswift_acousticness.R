@@ -46,4 +46,4 @@ plot <- df %>% ggplot(aes(fill=acousticness, x=duration_min, y=fct_rev(album_nam
 
 print(plot)
 
-ggsave('~/Documents/github/tidytuesday/2024/w01_taylorswift/w01_taylorswift_acousticness_raw.png', height=12, width=12, unit="in")
+ggsave('~/Documents/github/tidytuesday/2024/week01_taylorswift/w01_taylorswift_acousticness_raw.png', height=12, width=12, unit="in")
